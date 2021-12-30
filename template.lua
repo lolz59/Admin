@@ -1,5 +1,3 @@
--- Commands
-
 --[[ How to use
 1.) Make a local command by using the template below:
 

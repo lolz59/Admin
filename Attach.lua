@@ -44,3 +44,4 @@ function attach(target)
 	end
 end
 
+attach(_G.Target)

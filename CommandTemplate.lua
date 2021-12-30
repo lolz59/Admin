@@ -35,4 +35,8 @@ function cmds.btools(sender, args)
 	end
 end
 
+Info
+> The player who ran the command is the first argument by default
+> The arguments within the command are the second argument by default
+
 --]]

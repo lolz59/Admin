@@ -1,0 +1,17 @@
+me: The player who called the command
+all: Every player in game
+others: Every player but the player who called the command
+
+sword me/all/plr
+bring plr
+kill me/all/others/plr
+kick plr reason
+admin plr/all
+unadmin plr
+goto plr
+speed me/plr amount
+music soundid
+pause
+volume amount
+exec code
+prefix symbol
